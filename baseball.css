@@ -1,0 +1,115 @@
+body {
+	background-image: url("images/baseball.jpg");
+	font-size: 25px;
+	margin-left: 0%;
+	margin-right: 90%;
+	padding: 10px 10px 100px 100px;
+	font-family: Georgia;
+	width: 1200px;
+}
+div#li {
+	list-style-image: url(images/green.png);
+	padding-top: 5px;
+	margin-left: 20px;
+}
+
+div#largefont {
+	font-size: 25px;
+	text-align: center;
+}
+
+div#bold {
+	font-weight: bold;
+}
+div#huge {
+	font-size: 20px;
+}
+
+table {
+	margin-left: 20px;
+	margin-right: 20px;
+	border: solid black;
+	caption-side: bottom;
+	border-collapse: collapse;
+}
+
+.center {
+	text-align: center;
+}
+
+#sidebar {
+	background: white;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+	border: solid black;
+}
+
+#h2 {
+	background: white;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+	border: solid black;
+	float: center;
+}
+
+#doublesidebar {
+	background: white;
+	padding: 15px;
+	margin: 10px 10px 10px 10px;
+	border: solid black;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+h3 {
+	font-size: 25px;
+	text-align: center;
+}
+
+nav {
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	border: solid black;
+	font-size: 25px;
+}
+nav ul {
+	margin: 10px;
+	list-style-type: none;
+	padding: 5px 20px 5px 20px;
+}
+
+div#linkfont {
+	font-size: 20px;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+	padding: 5px 10px 5px 10px;
+}
+
+	a:link {
+		color: blue;
+	}
+	
+	a:hover {
+		background-color:
+		navy;
+	}
+	
+	a:visited {
+		color: purple;
+	}
+	
+table, th, td {
+    border: 1px solid black;
+}
+
+	
